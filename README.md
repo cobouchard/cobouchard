@@ -1,2 +1,1 @@
-
-[View TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3711336)
+<img src="https://tryhackme-badges.s3.amazonaws.com/arcanis.png" alt="Your Image Badge" />
